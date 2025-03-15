@@ -8,9 +8,13 @@ By integrating CAN and I2C communication protocols, this board enables seamless 
 ## Features:
 
 Modular Design – Allows for easy expansion and integration with CAN systems;
-CAN Bus Support – Enables reliable communication with automotive-grade devices;
-I2C Interface – Facilitates low-power communication with multiple peripherals;
+
+CAN Bus Support – Enables reliable communication with automotive-grade peripherals;
+
+I2C Interface – Facilitates low-power communication with multiple sensors while also integrating with our telemmetry system in the CAN Network;
+
 Headlight Control – Simplifies wiring and management of lighting components;
+
 
 ## Feedback
 
