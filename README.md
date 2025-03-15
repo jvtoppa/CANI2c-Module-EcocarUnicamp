@@ -5,7 +5,8 @@ A simple modular PCB for CAN, I2c and headlights connectors. This controller was
 
 By integrating CAN and I2C communication protocols, this board enables seamless interaction between various electronic modules while reducing wiring complexity. The dedicated headlight connectors allow for easy control of lighting systems.
 
-##Features:
+## Features:
+
 Modular Design – Allows for easy expansion and integration with CAN systems;
 CAN Bus Support – Enables reliable communication with automotive-grade devices;
 I2C Interface – Facilitates low-power communication with multiple peripherals;
